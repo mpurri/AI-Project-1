@@ -23,12 +23,14 @@
     <ClCompile Include="..\..\..\..\..\Downloads\reaihwprogress\Main.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\reaihwprogress\MapBuild.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\reaihwprogress\openlist.cpp" />
+    <ClCompile Include="Algorithm.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\Downloads\reaihwprogress\Coordinate.h" />
     <ClInclude Include="..\..\..\..\..\Downloads\reaihwprogress\fringe.h" />
     <ClInclude Include="..\..\..\..\..\Downloads\reaihwprogress\MapBuild.h" />
     <ClInclude Include="..\..\..\..\..\Downloads\reaihwprogress\openlist.h" />
+    <ClInclude Include="Algorithm.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{CDD5D6F5-3036-41EB-B552-BCE756BE5DAF}</ProjectGuid>
